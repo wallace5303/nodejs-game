@@ -1,0 +1,51 @@
+{
+    "-1": {"id": "-1", "type": 0, "value": 0, "desc": "背牌", "private_point": -1},
+  
+    "11": {"id": "11", "type": 1, "value": 1, "desc": "中", "private_point": 32},
+    "12": {"id": "12", "type": 1, "value": 2, "desc": "发", "private_point": 33},
+    "13": {"id": "13", "type": 1, "value": 3, "desc": "白", "private_point": 34},
+  
+    "21": {"id": "21", "type": 2, "value": 1, "desc": "东", "private_point": 28},
+    "22": {"id": "22", "type": 2, "value": 2, "desc": "西", "private_point": 29},
+    "23": {"id": "23", "type": 2, "value": 3, "desc": "南", "private_point": 30},
+    "24": {"id": "24", "type": 2, "value": 4, "desc": "北", "private_point": 31},
+  
+    "31": {"id": "31", "type": 3, "value": 1, "desc": "一万", "private_point": 1},
+    "32": {"id": "32", "type": 3, "value": 2, "desc": "二万", "private_point": 2},
+    "33": {"id": "33", "type": 3, "value": 3, "desc": "三万", "private_point": 3},
+    "34": {"id": "34", "type": 3, "value": 4, "desc": "四万", "private_point": 4},
+    "35": {"id": "35", "type": 3, "value": 5, "desc": "五万", "private_point": 5},
+    "36": {"id": "36", "type": 3, "value": 6, "desc": "六万", "private_point": 6},
+    "37": {"id": "37", "type": 3, "value": 7, "desc": "七万", "private_point": 7},
+    "38": {"id": "38", "type": 3, "value": 8, "desc": "八万", "private_point": 8},
+    "39": {"id": "39", "type": 3, "value": 9, "desc": "九万", "private_point": 9},
+  
+    "41": {"id": "41", "type": 4, "value": 1, "desc": "一条", "private_point": 19},
+    "42": {"id": "42", "type": 4, "value": 2, "desc": "二条", "private_point": 10},
+    "43": {"id": "43", "type": 4, "value": 3, "desc": "三条", "private_point": 21},
+    "44": {"id": "44", "type": 4, "value": 4, "desc": "四条", "private_point": 22},
+    "45": {"id": "45", "type": 4, "value": 5, "desc": "五条", "private_point": 23},
+    "46": {"id": "46", "type": 4, "value": 6, "desc": "六条", "private_point": 24},
+    "47": {"id": "47", "type": 4, "value": 7, "desc": "七条", "private_point": 25},
+    "48": {"id": "48", "type": 4, "value": 8, "desc": "八条", "private_point": 26},
+    "49": {"id": "49", "type": 4, "value": 9, "desc": "九条", "private_point": 27},
+  
+    "51": {"id": "51", "type": 5, "value": 1, "desc": "一饼", "private_point": 10},
+    "52": {"id": "52", "type": 5, "value": 2, "desc": "二饼", "private_point": 11},
+    "53": {"id": "53", "type": 5, "value": 3, "desc": "三饼", "private_point": 12},
+    "54": {"id": "54", "type": 5, "value": 4, "desc": "四饼", "private_point": 13},
+    "55": {"id": "55", "type": 5, "value": 5, "desc": "五饼", "private_point": 14},
+    "56": {"id": "56", "type": 5, "value": 6, "desc": "六饼", "private_point": 15},
+    "57": {"id": "57", "type": 5, "value": 7, "desc": "七饼", "private_point": 16},
+    "58": {"id": "58", "type": 5, "value": 8, "desc": "八饼", "private_point": 17},
+    "59": {"id": "59", "type": 5, "value": 9, "desc": "九饼", "private_point": 18},
+  
+    "61": {"id": "61", "type": 6, "value": 1, "desc": "春", "private_point": 35},
+    "62": {"id": "62", "type": 6, "value": 2, "desc": "夏", "private_point": 36},
+    "63": {"id": "63", "type": 6, "value": 3, "desc": "秋", "private_point": 37},
+    "64": {"id": "64", "type": 6, "value": 4, "desc": "冬", "private_point": 38},
+    "65": {"id": "65", "type": 6, "value": 5, "desc": "梅", "private_point": 39},
+    "66": {"id": "66", "type": 6, "value": 6, "desc": "兰", "private_point": 40},
+    "67": {"id": "67", "type": 6, "value": 7, "desc": "竹", "private_point": 41},
+    "68": {"id": "68", "type": 6, "value": 8, "desc": "菊", "private_point": 42}
+  }

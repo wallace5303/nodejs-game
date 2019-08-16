@@ -1,0 +1,22 @@
+{
+  "name": "ai-mahjong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallace5303/nodejs-game.git"
+  },
+  "keywords": [],
+  "author": "gaoshuaixing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallace5303/nodejs-game/issues"
+  },
+  "homepage": "https://github.com/wallace5303/nodejs-game#readme"
+}
